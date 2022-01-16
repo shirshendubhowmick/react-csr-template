@@ -1,0 +1,18 @@
+:root {
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-transparent: transparent;
+
+  --color-black-rgb: 0, 0, 0;
+  --color-blue: #039be5;
+  --color-blue-rgb: 3, 155, 229;
+  --color-blue-light: #00a5f4;
+  --color-blue-light-rgb: 0, 165, 244;
+  --color-green: #07bc4c;
+  --color-green-rgb: 7, 188, 76;
+  --color-red: #ff4c4c;
+
+  --z-index-modal-backdrop: 400;
+  --z-index-modal: 500;
+  --z-index-toast: 900;
+}
